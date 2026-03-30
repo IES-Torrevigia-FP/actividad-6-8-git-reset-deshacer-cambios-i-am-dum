@@ -1,0 +1,17 @@
+En la rama inicial:
+Tu rama esta adelantada a 'origin/main' por 4 commits.
+	(usa 'git push' para publicar tus commits locales)
+
+
+Archivos sin seguimiento:
+	(usa 'git add <archivo>...' para incluirlo a lo que sera confirmado)
+	cp1-historial-inicial.txt
+	cp2-soft-reset.txt
+
+no hay nada agregado al commit pero hay archivos sin seguimiento presentes
+
+1378236 Paso 3 y 4: cambios revisados
+5f14071 Paso 2: módulo de login
+87be0ba Paso 1: estructura inicial
+
+--soft deshace el commit más reciente, pero mantiene todos los cambios en staging

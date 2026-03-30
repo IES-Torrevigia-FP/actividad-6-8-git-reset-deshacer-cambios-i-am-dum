@@ -1,0 +1,12 @@
+En la rama main
+Tu rama esta adelantada a 'origin/main' por 3 commits.
+	(usa 'git push' par apublicar tus commits locales)
+
+
+Archivos sin seguimiento:
+	(usa 'git add <archivo>...' para inicluirlo a lo que sera confirmado)
+	cp1-historial-inical.txt
+	cp2-soft-reset.txt
+	cp3-mixed-reset.txt
+
+Deshace el commit más reciente, pero mantiene todos los cambios en staging mientras que el --mixed mueve el HEAD y limpiaal staging, dejando los cambios solo en el working directory
